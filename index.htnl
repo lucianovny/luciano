@@ -1,0 +1,25 @@
+<html>   
+<head>
+
+</head>
+<body>
+
+
+<h1>TÍTULO</h1>
+<h2>subtítulo</h2>
+<p>Isso aqui é um parágrafo <p>
+
+<ol>
+    <li>feijao;</li>
+    <li>arroz;</li>
+    <li>banana;</li>
+    <li>maçã;</li>
+</ol>
+
+<a href="https://www.google.com">Clique aqui</a>
+
+
+
+
+</body>
+</html>
